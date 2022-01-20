@@ -1,0 +1,14 @@
+C:\Users\mohammad\Desktop\repos\classesexercise1\classesexercise1\bin\Debug\netcoreapp3.1\classesexercise1.exe
+C:\Users\mohammad\Desktop\repos\classesexercise1\classesexercise1\bin\Debug\netcoreapp3.1\classesexercise1.deps.json
+C:\Users\mohammad\Desktop\repos\classesexercise1\classesexercise1\bin\Debug\netcoreapp3.1\classesexercise1.runtimeconfig.json
+C:\Users\mohammad\Desktop\repos\classesexercise1\classesexercise1\bin\Debug\netcoreapp3.1\classesexercise1.runtimeconfig.dev.json
+C:\Users\mohammad\Desktop\repos\classesexercise1\classesexercise1\bin\Debug\netcoreapp3.1\classesexercise1.dll
+C:\Users\mohammad\Desktop\repos\classesexercise1\classesexercise1\bin\Debug\netcoreapp3.1\classesexercise1.pdb
+C:\Users\mohammad\Desktop\repos\classesexercise1\classesexercise1\obj\Debug\netcoreapp3.1\classesexercise1.csproj.AssemblyReference.cache
+C:\Users\mohammad\Desktop\repos\classesexercise1\classesexercise1\obj\Debug\netcoreapp3.1\classesexercise1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mohammad\Desktop\repos\classesexercise1\classesexercise1\obj\Debug\netcoreapp3.1\classesexercise1.AssemblyInfoInputs.cache
+C:\Users\mohammad\Desktop\repos\classesexercise1\classesexercise1\obj\Debug\netcoreapp3.1\classesexercise1.AssemblyInfo.cs
+C:\Users\mohammad\Desktop\repos\classesexercise1\classesexercise1\obj\Debug\netcoreapp3.1\classesexercise1.csproj.CoreCompileInputs.cache
+C:\Users\mohammad\Desktop\repos\classesexercise1\classesexercise1\obj\Debug\netcoreapp3.1\classesexercise1.dll
+C:\Users\mohammad\Desktop\repos\classesexercise1\classesexercise1\obj\Debug\netcoreapp3.1\classesexercise1.pdb
+C:\Users\mohammad\Desktop\repos\classesexercise1\classesexercise1\obj\Debug\netcoreapp3.1\classesexercise1.genruntimeconfig.cache
